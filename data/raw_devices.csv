@@ -1,0 +1,301 @@
+device_id,customer_id,device_model,purchase_type,activation_date
+1,50,LU600,Rental,2025-05-24
+2,35,Solo Backpack,Purchase,2026-02-23
+3,33,LU300,Rental,2026-06-30
+4,33,LU800,Subscription,2024-08-31
+5,61,LU800,Subscription,2026-05-13
+6,51,LU800,Rental,2025-10-06
+7,43,LU800,Rental,2025-07-26
+8,101,LU800,Subscription,2026-06-27
+9,12,LU300,Rental,2025-03-20
+10,67,LU300,Purchase,2025-05-25
+11,65,Solo Backpack,Subscription,2026-05-21
+12,33,LiveU Nexus (Software),Purchase,2026-04-11
+13,40,LU300,Rental,2025-09-09
+14,74,Solo Backpack,Purchase,2026-01-28
+15,43,Solo Backpack,Purchase,2026-03-16
+16,44,LU600,Purchase,2026-05-26
+17,29,LU800,Subscription,2025-08-04
+18,13,LU800,Purchase,2025-03-01
+19,12,LU600,Purchase,2025-08-02
+20,95,LU600,Purchase,2025-05-24
+21,46,LU800,Rental,2025-12-12
+22,2,LiveU Nexus (Software),Subscription,2026-03-15
+23,115,Solo Backpack,Rental,2026-01-21
+24,114,LU800,Rental,2026-04-15
+25,35,LU600,Subscription,2026-06-10
+26,87,LU800,Rental,2026-07-25
+27,81,LU600,Purchase,2025-09-06
+28,90,LU600,Purchase,2026-06-01
+29,8,Solo Backpack,Purchase,2025-10-17
+30,93,LU600,Purchase,2025-12-08
+31,26,Solo Backpack,Rental,2024-10-16
+32,74,LiveU Nexus (Software),Subscription,2025-06-22
+33,90,LU800,Purchase,2026-05-03
+34,34,Solo Backpack,Rental,2024-12-26
+35,115,LU300,Rental,2025-02-20
+36,105,LU600,Purchase,2025-04-10
+37,7,LU600,Subscription,2025-07-10
+38,68,Solo Backpack,Rental,2025-04-17
+39,58,LU300,Purchase,2026-05-13
+40,117,Solo Backpack,Subscription,2025-03-05
+41,114,LiveU Nexus (Software),Rental,2026-07-03
+42,109,LU300,Rental,2025-06-16
+43,75,LiveU Nexus (Software),Rental,2026-04-10
+44,29,LU300,Rental,2025-07-22
+45,120,LU300,Subscription,2026-02-08
+46,36,LU300,Purchase,2024-09-23
+47,89,LU800,Purchase,2026-07-04
+48,21,Solo Backpack,Purchase,2025-01-25
+49,36,LU300,Subscription,2024-10-05
+50,10,LU600,Purchase,2026-07-08
+51,101,LiveU Nexus (Software),Subscription,2024-09-15
+52,73,LU600,Rental,2024-09-08
+53,24,LU300,Subscription,2025-02-11
+54,64,LU300,Subscription,2026-04-14
+55,99,Solo Backpack,Subscription,2025-11-07
+56,49,LU600,Subscription,2025-02-04
+57,99,Solo Backpack,Rental,2025-07-24
+58,112,Solo Backpack,Rental,2024-11-07
+59,36,LU800,Purchase,2026-07-01
+60,82,LU800,Purchase,2025-07-18
+61,113,LU300,Rental,2025-02-17
+62,103,LU600,Rental,2025-05-09
+63,96,LU800,Purchase,2025-10-27
+64,24,LU300,Rental,2026-07-12
+65,23,LU600,Subscription,2026-01-16
+66,62,LU300,Rental,2026-02-28
+67,96,LU600,Subscription,2024-12-13
+68,37,LU300,Subscription,2025-03-29
+69,12,LU600,Subscription,2025-10-08
+70,113,LU300,Rental,2026-06-17
+71,55,LU800,Subscription,2025-10-06
+72,13,LU300,Subscription,2026-06-02
+73,23,LU600,Subscription,2025-05-14
+74,89,LiveU Nexus (Software),Purchase,2026-06-26
+75,99,LU300,Rental,2025-01-06
+76,105,LiveU Nexus (Software),Purchase,2025-10-17
+77,30,LU300,Purchase,2026-04-07
+78,17,LU800,Rental,2025-02-08
+79,113,Solo Backpack,Subscription,2026-01-01
+80,62,LU600,Subscription,2025-03-22
+81,84,LU600,Purchase,2025-12-23
+82,112,LU800,Subscription,2026-03-20
+83,89,LU300,Rental,2026-03-14
+84,86,LU300,Subscription,2025-09-29
+85,13,LU600,Subscription,2024-09-15
+86,59,LiveU Nexus (Software),Rental,2025-09-05
+87,19,LU800,Purchase,2025-12-06
+88,49,LU600,Subscription,2024-10-05
+89,100,LU600,Purchase,2025-11-26
+90,12,LU800,Purchase,2024-08-26
+91,61,LU600,Subscription,2025-06-15
+92,105,LU300,Purchase,2025-08-05
+93,19,LU300,Subscription,2025-06-25
+94,76,LU800,Purchase,2025-05-05
+95,9,LU600,Subscription,2026-05-21
+96,71,LU800,Purchase,2025-07-14
+97,28,LiveU Nexus (Software),Subscription,2024-12-05
+98,78,LU800,Subscription,2024-12-21
+99,95,LU300,Purchase,2025-08-28
+100,52,LiveU Nexus (Software),Rental,2025-11-28
+101,83,LU300,Subscription,2025-11-04
+102,111,LiveU Nexus (Software),Rental,2026-06-11
+103,16,LU800,Purchase,2026-02-26
+104,117,Solo Backpack,Rental,2025-07-18
+105,69,LU300,Rental,2026-04-04
+106,99,Solo Backpack,Subscription,2025-10-18
+107,12,LU800,Subscription,2025-04-06
+108,25,LU800,Rental,2025-02-10
+109,52,LU800,Purchase,2026-06-21
+110,85,LU300,Rental,2025-03-06
+111,100,Solo Backpack,Rental,2025-07-08
+112,53,Solo Backpack,Purchase,2026-02-09
+113,23,LU800,Subscription,2025-10-01
+114,16,LiveU Nexus (Software),Subscription,2025-12-11
+115,57,LU600,Subscription,2025-04-16
+116,39,LU600,Subscription,2025-08-08
+117,109,LU800,Rental,2025-04-08
+118,53,Solo Backpack,Subscription,2025-08-03
+119,42,LU800,Rental,2025-04-29
+120,58,LU300,Purchase,2025-02-19
+121,39,Solo Backpack,Rental,2025-03-06
+122,14,LU800,Rental,2025-10-20
+123,95,LU300,Subscription,2026-05-13
+124,5,LU800,Purchase,2025-09-21
+125,35,LU600,Purchase,2025-08-24
+126,87,LU600,Purchase,2025-01-01
+127,93,LU600,Purchase,2025-02-07
+128,107,LU300,Subscription,2025-06-06
+129,75,LU600,Purchase,2025-09-21
+130,18,LU300,Rental,2025-02-06
+131,111,Solo Backpack,Rental,2025-07-26
+132,76,LU300,Rental,2026-01-12
+133,9,LU300,Subscription,2025-07-06
+134,74,LU300,Rental,2024-08-29
+135,58,LU600,Subscription,2025-03-17
+136,108,LU600,Rental,2025-06-04
+137,17,LiveU Nexus (Software),Purchase,2025-02-08
+138,102,LU300,Subscription,2025-12-08
+139,7,LU800,Purchase,2025-05-10
+140,46,LU600,Purchase,2025-09-20
+141,13,LU600,Subscription,2025-04-21
+142,40,LiveU Nexus (Software),Purchase,2026-08-05
+143,42,LU800,Subscription,2025-09-17
+144,9,LU800,Rental,2025-04-27
+145,50,LU600,Subscription,2025-07-10
+146,27,LU600,Subscription,2025-03-26
+147,66,LiveU Nexus (Software),Rental,2025-01-30
+148,5,LU800,Subscription,2026-01-19
+149,29,Solo Backpack,Purchase,2025-04-01
+150,37,LU800,Subscription,2026-02-03
+151,38,Solo Backpack,Purchase,2026-07-03
+152,83,LU800,Rental,2025-12-27
+153,8,LU800,Purchase,2025-01-02
+154,112,LU300,Rental,2026-01-31
+155,109,LiveU Nexus (Software),Purchase,2025-03-04
+156,65,LiveU Nexus (Software),Subscription,2025-10-16
+157,86,LU300,Subscription,2026-02-16
+158,116,LiveU Nexus (Software),Subscription,2025-10-21
+159,17,LU800,Purchase,2026-07-24
+160,71,LiveU Nexus (Software),Rental,2026-04-09
+161,89,LU600,Rental,2025-03-18
+162,45,Solo Backpack,Purchase,2025-05-04
+163,4,Solo Backpack,Purchase,2025-03-22
+164,36,Solo Backpack,Rental,2026-01-09
+165,70,LU300,Subscription,2024-11-16
+166,31,LU600,Rental,2024-09-18
+167,19,Solo Backpack,Rental,2024-09-25
+168,61,LU800,Purchase,2025-03-15
+169,108,LiveU Nexus (Software),Purchase,2026-06-28
+170,54,Solo Backpack,Purchase,2025-11-19
+171,39,LU800,Subscription,2026-02-10
+172,91,Solo Backpack,Purchase,2024-10-29
+173,74,LU300,Purchase,2024-08-25
+174,90,Solo Backpack,Purchase,2025-03-10
+175,19,Solo Backpack,Subscription,2025-07-28
+176,39,LU800,Subscription,2025-04-19
+177,67,LU300,Subscription,2026-07-14
+178,45,LiveU Nexus (Software),Subscription,2025-02-15
+179,13,LU600,Rental,2026-04-30
+180,114,LU300,Purchase,2024-11-07
+181,92,LU600,Subscription,2024-10-03
+182,58,LU600,Subscription,2025-08-06
+183,20,LU300,Rental,2025-10-07
+184,92,LU300,Subscription,2025-12-24
+185,72,LU800,Subscription,2024-12-04
+186,61,LU300,Rental,2026-03-24
+187,105,LU800,Subscription,2026-07-02
+188,39,LU800,Subscription,2024-10-17
+189,1,LU800,Rental,2025-02-11
+190,3,LU800,Subscription,2025-09-23
+191,77,LU600,Purchase,2025-06-13
+192,92,LU300,Subscription,2025-10-20
+193,62,Solo Backpack,Purchase,2025-11-05
+194,63,LU800,Rental,2026-02-27
+195,113,LiveU Nexus (Software),Subscription,2025-05-18
+196,25,Solo Backpack,Rental,2026-06-03
+197,56,LU600,Rental,2025-03-19
+198,33,LiveU Nexus (Software),Purchase,2025-10-15
+199,38,LiveU Nexus (Software),Purchase,2025-06-22
+200,117,LU800,Subscription,2025-09-30
+201,6,LU600,Purchase,2024-09-29
+202,58,LiveU Nexus (Software),Purchase,2026-07-10
+203,44,Solo Backpack,Rental,2024-10-27
+204,45,LU800,Subscription,2026-02-17
+205,32,Solo Backpack,Subscription,2025-11-10
+206,45,Solo Backpack,Purchase,2025-02-23
+207,61,Solo Backpack,Rental,2024-10-14
+208,47,Solo Backpack,Rental,2025-02-05
+209,21,Solo Backpack,Rental,2025-09-18
+210,80,LU800,Subscription,2024-12-07
+211,118,LU800,Purchase,2025-06-07
+212,85,LU300,Rental,2025-12-27
+213,75,LiveU Nexus (Software),Rental,2025-07-21
+214,101,LU600,Subscription,2024-09-09
+215,36,LU300,Rental,2025-03-12
+216,99,LU300,Rental,2025-03-08
+217,19,LU600,Rental,2026-04-28
+218,20,Solo Backpack,Rental,2024-10-07
+219,57,LiveU Nexus (Software),Subscription,2025-02-01
+220,18,LU300,Rental,2025-02-23
+221,47,LU300,Subscription,2026-03-10
+222,105,LU600,Subscription,2025-10-16
+223,49,LU300,Rental,2026-03-19
+224,14,LU600,Rental,2025-01-06
+225,15,LU600,Subscription,2024-11-07
+226,31,LU300,Rental,2025-01-26
+227,1,LU800,Rental,2024-12-02
+228,117,LU800,Subscription,2025-02-24
+229,54,LU300,Purchase,2024-11-27
+230,118,LU600,Purchase,2024-09-28
+231,3,LU600,Purchase,2026-03-11
+232,16,Solo Backpack,Subscription,2025-10-20
+233,87,LU300,Purchase,2026-04-03
+234,57,LU800,Purchase,2026-06-12
+235,75,LiveU Nexus (Software),Purchase,2025-06-29
+236,12,LU600,Purchase,2025-07-20
+237,74,Solo Backpack,Purchase,2025-03-24
+238,96,LU300,Rental,2025-06-03
+239,16,LiveU Nexus (Software),Rental,2025-03-01
+240,72,Solo Backpack,Purchase,2025-09-10
+241,102,Solo Backpack,Purchase,2025-06-28
+242,76,Solo Backpack,Purchase,2025-10-22
+243,24,LU800,Purchase,2026-05-20
+244,28,LU800,Rental,2026-01-28
+245,117,Solo Backpack,Subscription,2025-10-26
+246,8,LU600,Purchase,2024-09-04
+247,92,Solo Backpack,Rental,2025-01-29
+248,36,LU800,Purchase,2025-12-16
+249,90,LU300,Subscription,2026-04-29
+250,8,LU600,Subscription,2025-10-14
+251,58,LU600,Rental,2024-08-31
+252,60,LU300,Purchase,2026-02-19
+253,50,LU300,Subscription,2026-04-01
+254,28,LU300,Purchase,2025-10-06
+255,92,LU600,Purchase,2026-02-18
+256,101,LU600,Purchase,2024-12-21
+257,41,Solo Backpack,Purchase,2025-08-26
+258,100,LU800,Subscription,2025-07-01
+259,64,LU300,Subscription,2025-03-05
+260,27,LU300,Purchase,2026-08-05
+261,118,Solo Backpack,Rental,2025-06-27
+262,63,LU300,Subscription,2026-03-27
+263,17,Solo Backpack,Subscription,2026-07-16
+264,73,LiveU Nexus (Software),Rental,2025-07-21
+265,33,LU600,Subscription,2025-06-07
+266,117,LU800,Subscription,2025-04-05
+267,84,LU600,Subscription,2024-10-31
+268,77,LU600,Purchase,2024-12-10
+269,92,LU300,Rental,2025-06-09
+270,112,LiveU Nexus (Software),Subscription,2025-08-09
+271,29,LU800,Purchase,2025-12-07
+272,13,LU800,Subscription,2025-06-01
+273,46,LU600,Purchase,2026-02-16
+274,35,Solo Backpack,Purchase,2024-09-12
+275,6,LU300,Purchase,2024-10-19
+276,82,LU800,Purchase,2025-02-14
+277,115,LiveU Nexus (Software),Subscription,2024-11-08
+278,69,Solo Backpack,Subscription,2026-02-25
+279,47,LU800,Subscription,2026-05-02
+280,25,LU300,Rental,2026-04-03
+281,66,Solo Backpack,Purchase,2024-08-17
+282,10,LU600,Rental,2026-05-05
+283,56,LU800,Rental,2025-07-16
+284,30,LU800,Rental,2024-09-25
+285,114,LU800,Purchase,2025-08-25
+286,109,Solo Backpack,Rental,2025-11-08
+287,5,LiveU Nexus (Software),Rental,2025-08-11
+288,119,LU800,Subscription,2025-07-01
+289,120,LU800,Subscription,2024-09-23
+290,33,LU800,Rental,2025-02-25
+291,118,LU800,Rental,2024-11-19
+292,65,Solo Backpack,Subscription,2025-03-12
+293,18,LU600,Purchase,2026-05-14
+294,96,LU600,Subscription,2025-08-01
+295,111,LU800,Subscription,2024-09-06
+296,49,LU300,Rental,2025-11-14
+297,11,LU600,Purchase,2026-03-16
+298,85,Solo Backpack,Purchase,2026-01-10
+299,26,LU800,Rental,2025-03-29
+300,63,Solo Backpack,Purchase,2024-08-26

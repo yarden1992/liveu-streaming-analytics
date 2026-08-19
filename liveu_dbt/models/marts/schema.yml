@@ -1,0 +1,23 @@
+version: 2
+
+models:
+  - name: fct_streaming_sessions
+    description: "One row per streaming session, enriched with customer & device attributes."
+    columns:
+      - name: session_id
+        tests:
+          - unique
+          - not_null
+
+  - name: fct_revenue
+    description: "Invoice-level revenue fact table, enriched with customer segment."
+    columns:
+      - name: invoice_id
+        tests:
+          - unique
+          - not_null
+      - name: status
+        tests:
+          - accepted_values:
+              arguments:
+                values: ['Paid', 'Pending', 'Overdue']

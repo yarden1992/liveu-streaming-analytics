@@ -1,0 +1,121 @@
+customer_id,customer_name,industry,region,segment,signup_date
+1,"Rodriguez, Figueroa and Sanchez",Sports Broadcasting,APAC,SMB,2024-05-22
+2,Doyle Ltd,Streaming/OTT,APAC,SMB,2025-04-27
+3,"Mcclain, Miller and Henderson",Public Safety,North America,SMB,2026-07-01
+4,Davis and Sons,Government,North America,Mid-Market,2023-09-27
+5,"Guzman, Hoffman and Baldwin",News,North America,Enterprise,2025-05-14
+6,"Gardner, Robinson and Lawrence",News,EMEA,SMB,2024-08-20
+7,Blake and Sons,News,APAC,Mid-Market,2025-12-03
+8,"Henderson, Ramirez and Lewis",Pro A/V,APAC,SMB,2024-11-25
+9,Garcia-James,Government,North America,SMB,2026-07-02
+10,Abbott-Munoz,Public Safety,EMEA,SMB,2023-12-19
+11,Blair PLC,News,EMEA,Enterprise,2026-04-02
+12,Dudley Group,Streaming/OTT,North America,Mid-Market,2024-03-07
+13,Arnold Ltd,Pro A/V,North America,SMB,2023-10-04
+14,"Mcclure, Ward and Lee",News,North America,Mid-Market,2024-11-24
+15,Williams and Sons,News,LATAM,Enterprise,2025-02-22
+16,Galloway-Wyatt,News,North America,Mid-Market,2025-12-24
+17,James Group,Sports Broadcasting,EMEA,SMB,2025-08-19
+18,"Flowers, Martin and Kelly",Sports Broadcasting,APAC,Mid-Market,2026-05-16
+19,"Adams, Zuniga and Wong",Sports Broadcasting,EMEA,Mid-Market,2025-10-11
+20,"Reid, Ferguson and Sanchez",News,LATAM,Enterprise,2024-03-15
+21,Gray-Mayo,Government,LATAM,Mid-Market,2024-11-19
+22,"Watts, Robinson and Nguyen",News,North America,SMB,2026-05-25
+23,Perez Inc,News,EMEA,Enterprise,2026-04-25
+24,Morales-Jones,Sports Broadcasting,North America,Mid-Market,2025-06-12
+25,"Walter, Edwards and Rios",Sports Broadcasting,North America,SMB,2025-07-25
+26,Wilkerson-Day,Public Safety,North America,SMB,2023-12-28
+27,Baker and Sons,News,EMEA,Mid-Market,2026-04-03
+28,"Hoffman, Baker and Richards",Sports Broadcasting,EMEA,SMB,2025-02-08
+29,"Ross, Robinson and Bright",Government,North America,Mid-Market,2025-07-28
+30,"Snyder, Campos and Callahan",News,North America,Enterprise,2024-07-30
+31,Burton Ltd,Government,LATAM,SMB,2025-08-30
+32,Carlson-Cruz,News,North America,SMB,2025-03-31
+33,"Ferrell, Rice and Maddox",News,North America,SMB,2024-03-09
+34,Frazier Inc,Streaming/OTT,EMEA,SMB,2025-07-26
+35,"Dyer, Potter and Mack",Streaming/OTT,LATAM,Mid-Market,2024-09-25
+36,Rodriguez-Graham,Pro A/V,North America,Mid-Market,2025-10-23
+37,Smith-Bowen,Sports Broadcasting,EMEA,SMB,2024-02-19
+38,"Baker, Mason and White",News,APAC,Mid-Market,2025-04-15
+39,Harrell LLC,Government,North America,SMB,2024-10-23
+40,"Romero, Gonzalez and Brooks",Sports Broadcasting,APAC,SMB,2026-01-22
+41,Ryan PLC,News,EMEA,SMB,2024-07-06
+42,George Group,Sports Broadcasting,EMEA,Mid-Market,2024-03-29
+43,Rodriguez LLC,News,EMEA,Mid-Market,2025-12-02
+44,Allen-Allen,Streaming/OTT,EMEA,Enterprise,2025-05-25
+45,"Arroyo, Miller and Tucker",News,North America,Mid-Market,2024-07-26
+46,Spence PLC,Government,APAC,Enterprise,2024-11-30
+47,Anderson Group,Sports Broadcasting,North America,Mid-Market,2025-08-07
+48,"Martin, Rose and Obrien",Sports Broadcasting,North America,Mid-Market,2025-02-12
+49,Hickman Ltd,Sports Broadcasting,North America,Enterprise,2025-12-11
+50,"Harris, Collins and Carney",News,EMEA,Mid-Market,2026-06-06
+51,"Brooks, Lam and Hayes",Streaming/OTT,EMEA,Enterprise,2025-10-10
+52,Walker LLC,Public Safety,North America,Enterprise,2025-07-20
+53,Chapman and Sons,Streaming/OTT,EMEA,SMB,2024-06-15
+54,"Robinson, Jones and Welch",Pro A/V,North America,Mid-Market,2025-07-25
+55,Jones Inc,Government,EMEA,Enterprise,2025-06-08
+56,Jones-Young,Streaming/OTT,North America,Mid-Market,2023-11-25
+57,"Washington, Ryan and Cummings",News,EMEA,SMB,2026-05-28
+58,"Johnston, Sanchez and Kennedy",News,EMEA,Enterprise,2024-04-24
+59,Lee-Davis,News,LATAM,Mid-Market,2024-07-13
+60,Gomez-Jenkins,Sports Broadcasting,North America,Enterprise,2025-12-24
+61,"Brown, Valdez and Lucas",Sports Broadcasting,North America,Enterprise,2024-01-22
+62,Powell LLC,News,North America,Mid-Market,2023-10-06
+63,Wright and Sons,Pro A/V,LATAM,Mid-Market,2026-07-01
+64,"West, Henderson and Ramirez",Sports Broadcasting,APAC,Mid-Market,2025-05-30
+65,Baxter Inc,News,North America,SMB,2025-11-14
+66,Morton-Chase,Sports Broadcasting,EMEA,SMB,2024-12-15
+67,Williams PLC,News,APAC,Mid-Market,2026-03-19
+68,Novak and Sons,Pro A/V,EMEA,Mid-Market,2025-04-22
+69,Russell Group,News,EMEA,SMB,2025-09-21
+70,Hancock Inc,Streaming/OTT,North America,Enterprise,2024-09-30
+71,Gray Group,Public Safety,North America,Mid-Market,2024-10-17
+72,House-Glover,News,APAC,Enterprise,2024-01-22
+73,Henderson-Bernard,News,LATAM,Enterprise,2025-08-20
+74,"Stanley, Tucker and Lee",Pro A/V,EMEA,SMB,2026-03-26
+75,Novak PLC,Public Safety,North America,SMB,2026-02-20
+76,"Daniels, Adkins and Brown",Public Safety,North America,Mid-Market,2026-03-18
+77,"Woods, Calhoun and Schmidt",Public Safety,APAC,Mid-Market,2025-11-24
+78,Yu Inc,News,APAC,Enterprise,2024-04-07
+79,Jones Inc,Sports Broadcasting,APAC,Enterprise,2025-12-22
+80,"Hensley, Powell and David",News,APAC,Enterprise,2025-08-28
+81,"Sanchez, Wheeler and Harvey",Pro A/V,EMEA,Mid-Market,2024-12-25
+82,Sandoval-Cunningham,Government,North America,SMB,2025-04-03
+83,Donovan-Harris,Sports Broadcasting,North America,Mid-Market,2026-04-22
+84,"Edwards, Baker and Anderson",News,APAC,Enterprise,2023-12-25
+85,"Evans, Stewart and Walton",Sports Broadcasting,EMEA,SMB,2024-01-07
+86,Smith PLC,Sports Broadcasting,North America,SMB,2024-12-25
+87,"Ferrell, Jones and Lewis",Public Safety,North America,Mid-Market,2025-03-06
+88,Anderson-Bailey,Government,EMEA,Mid-Market,2025-04-04
+89,Suarez LLC,Pro A/V,North America,Mid-Market,2024-07-21
+90,Moore-Bass,Sports Broadcasting,North America,Enterprise,2025-10-31
+91,"Turner, Riggs and Roman",News,EMEA,Mid-Market,2024-12-01
+92,"Smith, Montoya and Evans",Public Safety,EMEA,SMB,2026-01-02
+93,"Garcia, Humphrey and Baker",Public Safety,EMEA,Enterprise,2026-03-25
+94,Newton and Sons,Government,North America,Enterprise,2024-11-14
+95,Campbell-Clark,Public Safety,APAC,Enterprise,2026-04-10
+96,Harris-Walters,Sports Broadcasting,North America,Enterprise,2024-12-05
+97,Wagner-King,Sports Broadcasting,North America,SMB,2024-02-03
+98,Davis Group,Sports Broadcasting,APAC,SMB,2026-02-21
+99,Williams-Cook,News,EMEA,Mid-Market,2024-12-09
+100,Walsh LLC,News,APAC,Enterprise,2025-10-27
+101,Figueroa PLC,News,EMEA,Mid-Market,2026-01-29
+102,"Patterson, Smith and Jones",Government,EMEA,Mid-Market,2024-06-08
+103,"Mckee, Gardner and Davenport",Sports Broadcasting,North America,Enterprise,2025-11-24
+104,"Tran, Jordan and Williams",Sports Broadcasting,EMEA,Mid-Market,2025-01-15
+105,Nolan-Flynn,Streaming/OTT,North America,Mid-Market,2024-04-29
+106,Nolan and Sons,News,North America,Mid-Market,2024-11-28
+107,"Wright, Garcia and Deleon",Sports Broadcasting,LATAM,Mid-Market,2025-09-16
+108,Dickson-Brady,Public Safety,EMEA,Enterprise,2024-04-23
+109,Hancock and Sons,News,APAC,Mid-Market,2024-08-10
+110,Johnson-Doyle,News,EMEA,Mid-Market,2026-03-26
+111,Patton-Jenkins,News,APAC,Mid-Market,2023-11-11
+112,"Shields, Cochran and Adams",News,EMEA,SMB,2024-01-25
+113,"Rodriguez, Brennan and Garrison",Streaming/OTT,EMEA,Mid-Market,2024-09-29
+114,Gonzalez Group,Pro A/V,EMEA,Enterprise,2024-01-27
+115,Torres-Pope,Government,North America,Enterprise,2024-04-02
+116,Walker Ltd,Pro A/V,APAC,Mid-Market,2024-11-02
+117,Ross LLC,Pro A/V,North America,Enterprise,2024-08-04
+118,Rasmussen LLC,News,North America,Mid-Market,2024-12-26
+119,May-Ross,Pro A/V,EMEA,SMB,2023-10-23
+120,"Rivera, Johnson and Wiley",Sports Broadcasting,North America,Mid-Market,2026-01-21

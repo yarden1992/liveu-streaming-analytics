@@ -1,0 +1,20 @@
+version: 2
+
+sources:
+  - name: raw_data
+    database: LIVEU_RAW
+    schema: PUBLIC
+    tables:
+      - name: raw_customers
+      - name: raw_devices
+      - name: raw_streaming_sessions
+      - name: raw_invoices
+
+models:
+  - name: stg_sessions
+    description: "Cleaned streaming session events from LiveU field units"
+    columns:
+      - name: session_id
+        tests:
+          - unique
+          - not_null
