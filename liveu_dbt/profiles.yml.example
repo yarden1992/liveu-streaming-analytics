@@ -1,0 +1,13 @@
+liveu_dbt:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      account: your_account_identifier
+      user: your_username
+      password: your_password
+      role: ACCOUNTADMIN
+      database: LIVEU_RAW
+      warehouse: COMPUTE_WH
+      schema: ANALYTICS
+      threads: 4

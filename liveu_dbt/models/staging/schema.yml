@@ -11,6 +11,33 @@ sources:
       - name: raw_invoices
 
 models:
+  - name: stg_customers
+    description: "Cleaned customer records from LiveU's CRM/billing source"
+    columns:
+      - name: customer_id
+        tests:
+          - unique
+          - not_null
+
+  - name: stg_devices
+    description: "Cleaned device/field unit records"
+    columns:
+      - name: device_id
+        tests:
+          - unique
+          - not_null
+      - name: customer_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_customers')
+              field: customer_id
+      - name: purchase_type
+        tests:
+          - accepted_values:
+              arguments:
+                values: ['Purchase', 'Rental', 'Subscription']
+
   - name: stg_sessions
     description: "Cleaned streaming session events from LiveU field units"
     columns:
@@ -18,3 +45,39 @@ models:
         tests:
           - unique
           - not_null
+      - name: device_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_devices')
+              field: device_id
+      - name: customer_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_customers')
+              field: customer_id
+      - name: network_type
+        tests:
+          - accepted_values:
+              arguments:
+                values: ['Cellular Bonded', 'Satellite Hybrid', 'WiFi', 'Wired IP']
+
+  - name: stg_invoices
+    description: "Cleaned invoice records"
+    columns:
+      - name: invoice_id
+        tests:
+          - unique
+          - not_null
+      - name: customer_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_customers')
+              field: customer_id
+      - name: status
+        tests:
+          - accepted_values:
+              arguments:
+                values: ['Paid', 'Pending', 'Overdue']

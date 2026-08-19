@@ -8,14 +8,34 @@ models:
         tests:
           - unique
           - not_null
+      - name: device_id
+        tests:
+          - not_null
+      - name: customer_id
+        tests:
+          - not_null
+      - name: uptime_pct
+        tests:
+          - dbt_utils.accepted_range:
+              min_value: 0
+              max_value: 100
+      - name: reliability_tier
+        tests:
+          - accepted_values:
+              arguments:
+                values: ['Excellent', 'Good', 'Needs Attention']
 
   - name: fct_revenue
-    description: "Invoice-level revenue fact table, enriched with customer segment."
+    description: "Invoice-level revenue fact table, enriched with customer segment. Includes both the total invoiced amount and the amount actually collected (Paid invoices only)."
     columns:
       - name: invoice_id
         tests:
           - unique
           - not_null
+      - name: amount_usd
+        tests:
+          - dbt_utils.accepted_range:
+              min_value: 0
       - name: status
         tests:
           - accepted_values:

@@ -9,6 +9,8 @@ customers as (
 )
 select
     s.session_id,
+    s.device_id,
+    s.customer_id,
     s.session_start,
 	date_trunc('month', s.session_start) as session_month,
 	to_char(s.session_start, 'Mon YYYY') as session_month_label,
